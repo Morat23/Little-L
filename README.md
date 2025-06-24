@@ -12,7 +12,7 @@ Nema14 A/B motors
 
 # Sources 
 Gantry https://github.com/VoronDesign/Voron-Legacy  
-Frame, Z axis, Electronics enclosure, Skirts https://github.com/VoronDesign/Voron-1/tree/Voron1.8  
+Frame, Z axis, Electronics enclosure, Skirts https://github.com/VoronDesign/Voron-1  
 Toolhead https://github.com/VoronDesign/Voron-Stealthburner  
 Bed https://github.com/VoronDesign/Voron-0  
 Extruder https://github.com/JaredC01/Galileo2  
