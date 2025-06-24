@@ -1,7 +1,7 @@
 # Little-L 
 A 120mm Voron Legacy mod  
 
-![Front](https://github.com/Morat23/Little-L/blob/main/Images/Front.png)  
+<img src="https://github.com/Morat23/Little-L/blob/main/Images/Front.png" width="200">  
 
 # Differences from Voron Legacy 
 Shrunken down to fit a 120mm bed (135x135x145 travel)  
