@@ -1,14 +1,14 @@
 # Little-L 
 A 120mm Voron Legacy mod  
 
-<img src="https://github.com/Morat23/Little-L/blob/main/Images/Front.png" width="200">  
+<img src="https://github.com/Morat23/Little-L/blob/main/Images/Front.png" width="500">  
 
 # Differences from Voron Legacy 
 Shrunken down to fit a 120mm bed (135x135x145 travel)  
 Fully enclosed and more electronics space thanks to Voron V1.8 frame  
 Nema14 A/B motors  
 
-![Front2](https://github.com/Morat23/Little-L/blob/main/Images/Front2.png)  
+<img src="https://github.com/Morat23/Little-L/blob/main/Images/Front2.png" width="500">  
 
 # Sources 
 Gantry https://github.com/VoronDesign/Voron-Legacy  
